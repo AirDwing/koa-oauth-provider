@@ -1,0 +1,19 @@
+{
+  "name": "koa-oauth-provider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AirDwing/koa-oauth-provider.git",
+  "author": "Willin Wang <willin@willin.org>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-dwing": "^1.2.0"
+  },
+  "dependencies": {
+    "debug": "^3.1.0",
+    "oauth2-server": "^3.0.0"
+  }
+}
